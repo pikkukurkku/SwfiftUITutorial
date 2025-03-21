@@ -11,7 +11,7 @@ import SwiftUI
 struct SwiftfulThinkingCourseApp: App {
     var body: some Scene {
         WindowGroup {
-            IntroView()
+            TextSelectionTutorial()
         }
     }
 }

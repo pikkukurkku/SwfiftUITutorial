@@ -10,12 +10,12 @@ import SwiftUI
 
 struct ContentView: View {
     var body: some View {
-        TapGestureTutorial()
+        TextSelectionTutorial()
     }
 }
 
 struct ContentView_Previews: PreviewProvider {
     static var previews: some View {
-        TapGestureTutorial()
+        TextSelectionTutorial()
     }
 }
