@@ -9,8 +9,8 @@ import SwiftUI
 
 struct forEach: View {
     
-    let data: [String] = ["Hi", "Hello", "Howdy"]
-    let myString: String = "Hello"
+ //   let data: [String] = ["Hi", "Hello", "Howdy"]
+//    let myString: String = "Hello"
     
     var body: some View {
         VStack {
