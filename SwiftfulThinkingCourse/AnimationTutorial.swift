@@ -7,6 +7,8 @@
 
 import SwiftUI
 
+//@available(*, iOS, introduced: 13.0, deprecated: 15.0, message: "Use AnimationUpdated file instead.")
+
 struct AnimationTutorial: View {
     
     @State var isAnimated: Bool = false
